@@ -1,12 +1,12 @@
-# Copyright (C) 2023 Hustle 7.8.2
-# This file is distributed under the same license as the Hustle 7.8.2 package.
+# Copyright (C) 2024 Hustle 7.8.3
+# This file is distributed under the same license as the Hustle 7.8.3 package.
 msgid ""
 msgstr ""
-"Project-Id-Version: Hustle 7.8.2\n"
+"Project-Id-Version: Hustle 7.8.3\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"POT-Creation-Date: 2023-10-12 09:41+0000\n"
+"POT-Creation-Date: 2024-01-17 10:18+0000\n"
 "X-Poedit-Basepath: ..\n"
 "X-Poedit-KeywordsList: __;_e;_ex:1,2c;_n:1,2;_n_noop:1,2;_nx:1,2,4c;_nx_noop:1,2,3c;_x:1,2c;esc_attr__;esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c\n"
 "X-Poedit-SearchPath-0: .\n"
@@ -74,27 +74,27 @@ msgstr ""
 msgid "There was an issue processing your request. Please reload the page and try again."
 msgstr ""
 
-#: inc/class-hustle-admin-page-abstract.php:614, views/admin/commons/wizard/background-image.php:34, views/admin/commons/sui-wizard/tab-content/image-uploader.php:47
+#: inc/class-hustle-admin-page-abstract.php:617, views/admin/commons/wizard/background-image.php:34, views/admin/commons/sui-wizard/tab-content/image-uploader.php:47
 msgid "Clear"
 msgstr ""
 
-#: inc/class-hustle-admin-page-abstract.php:615
+#: inc/class-hustle-admin-page-abstract.php:618
 msgid "Clear color"
 msgstr ""
 
-#: inc/class-hustle-admin-page-abstract.php:616, views/admin/sshare/appearance/tpl--icons-style.php:14, views/admin/commons/sui-listing/dialogs/import-module.php:148, views/admin/commons/sui-wizard/elements/palette-general.php:234, views/admin/commons/sui-wizard/elements/palette-general.php:312, views/admin/commons/sui-wizard/elements/palette-general.php:396, views/admin/commons/sui-wizard/elements/palette-general.php:440, views/admin/commons/sui-wizard/elements/palette-optin.php:36, views/admin/commons/sui-wizard/elements/palette-optin.php:140, views/admin/commons/sui-wizard/elements/palette-optin.php:189, views/admin/commons/sui-wizard/elements/palette-optin.php:288, views/admin/commons/sui-wizard/elements/palette-optin.php:352, views/admin/commons/sui-wizard/elements/palette-optin.php:436, views/admin/commons/sui-wizard/elements/palette-optin.php:540, views/admin/commons/sui-wizard/elements/palette-optin.php:609, views/admin/commons/sui-wizard/tab-appearance/row-colors/customize-palette.php:72, views/admin/commons/sui-wizard/tab-appearance/rows/layout.php:130, views/admin/commons/sui-wizard/tab-appearance/rows/layout.php:56, views/admin/commons/sui-wizard/tab-appearance/rows/typography.php:39, views/admin/commons/sui-wizard/tab-appearance/row-customize-elements/optin_form/form-fields.php:22
+#: inc/class-hustle-admin-page-abstract.php:619, views/admin/sshare/appearance/tpl--icons-style.php:14, views/admin/commons/sui-listing/dialogs/import-module.php:148, views/admin/commons/sui-wizard/elements/palette-general.php:234, views/admin/commons/sui-wizard/elements/palette-general.php:312, views/admin/commons/sui-wizard/elements/palette-general.php:396, views/admin/commons/sui-wizard/elements/palette-general.php:440, views/admin/commons/sui-wizard/elements/palette-optin.php:36, views/admin/commons/sui-wizard/elements/palette-optin.php:140, views/admin/commons/sui-wizard/elements/palette-optin.php:189, views/admin/commons/sui-wizard/elements/palette-optin.php:288, views/admin/commons/sui-wizard/elements/palette-optin.php:352, views/admin/commons/sui-wizard/elements/palette-optin.php:436, views/admin/commons/sui-wizard/elements/palette-optin.php:540, views/admin/commons/sui-wizard/elements/palette-optin.php:609, views/admin/commons/sui-wizard/tab-appearance/row-colors/customize-palette.php:72, views/admin/commons/sui-wizard/tab-appearance/rows/layout.php:130, views/admin/commons/sui-wizard/tab-appearance/rows/layout.php:56, views/admin/commons/sui-wizard/tab-appearance/rows/typography.php:39, views/admin/commons/sui-wizard/tab-appearance/row-customize-elements/optin_form/form-fields.php:22
 msgid "Default"
 msgstr ""
 
-#: inc/class-hustle-admin-page-abstract.php:617
+#: inc/class-hustle-admin-page-abstract.php:620
 msgid "Select default color"
 msgstr ""
 
-#: inc/class-hustle-admin-page-abstract.php:618
+#: inc/class-hustle-admin-page-abstract.php:621
 msgid "Select Color"
 msgstr ""
 
-#: inc/class-hustle-admin-page-abstract.php:619
+#: inc/class-hustle-admin-page-abstract.php:622
 msgid "Color value"
 msgstr ""
 
@@ -150,7 +150,7 @@ msgstr ""
 msgid "Docs"
 msgstr ""
 
-#: inc/class-hustle-module-admin.php:144
+#: inc/class-hustle-module-admin.php:145
 msgid "Renew Membership"
 msgstr ""
 
@@ -159,26 +159,26 @@ msgid "Upgrade"
 msgstr ""
 
 #: inc/class-hustle-module-admin.php:134
-msgid "Upgrade For 60% Off!"
+msgid "Upgrade For 80% Off!"
 msgstr ""
 
-#: inc/class-hustle-module-admin.php:168
+#: inc/class-hustle-module-admin.php:169
 msgid "Rate Hustle"
 msgstr ""
 
-#: inc/class-hustle-module-admin.php:171
+#: inc/class-hustle-module-admin.php:172
 msgid "Premium Support"
 msgstr ""
 
-#: inc/class-hustle-module-admin.php:171, views/admin/global/sui-components/footer/navigation.php:28, views/admin/global/sui-components/footer/navigation.php:15
+#: inc/class-hustle-module-admin.php:172, views/admin/global/sui-components/footer/navigation.php:28, views/admin/global/sui-components/footer/navigation.php:15
 msgid "Support"
 msgstr ""
 
-#: inc/class-hustle-module-admin.php:176, views/admin/global/sui-components/footer/navigation.php:27, views/admin/global/sui-components/footer/navigation.php:14
+#: inc/class-hustle-module-admin.php:177, views/admin/global/sui-components/footer/navigation.php:27, views/admin/global/sui-components/footer/navigation.php:14
 msgid "Roadmap"
 msgstr ""
 
-#: inc/class-hustle-module-admin.php:250, inc/opt-in-utils.php:1376
+#: inc/class-hustle-module-admin.php:251, inc/opt-in-utils.php:1376
 msgid "Hustle"
 msgstr ""
 
