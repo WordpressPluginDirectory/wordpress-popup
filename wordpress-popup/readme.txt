@@ -1,6 +1,6 @@
 === Hustle - Email Marketing, Lead Generation, Optins, Popups ===
 Plugin Name: Hustle - Email Marketing, Lead Generation, Opt-ins, Popups
-Version: 7.8.3
+Version: 7.8.4
 Author: WPMU DEV
 Author URI: https://wpmudev.com/
 Contributors: WPMUDEV
@@ -8,7 +8,7 @@ Tags: marketing, popup, optin, newsletter, subscription form, email, advertise, 
 Requires at least: 5.2
 Tested up to: 6.4
 Requires PHP: 7.4
-Stable tag: 7.8.3
+Stable tag: 7.8.4
 
 Setup email optin forms, popups, newsletter forms & subscription forms to generate email leads with the best marketing popup builder
 
@@ -175,6 +175,8 @@ Nope! All your pop-ups will seamlessly be added to the custom content module in 
 = Are there any feature limitations with Hustle? =
 No! Hustle gives you all the same settings and options as Hustle Pro. The only difference is Hustle Pro offers unlimited Opt-ins, Custom Content, and Social Sharing.
 
+= How can I report security issues or bugs? =
+We take plugin security incredibly seriously; if you have a bug or vulnerability to report, you can do so through the Patchstack Vulnerability Disclosure Program. It’s fast, easy, and you will be notified when the issue is fixed. [Report a vulnerability](https://patchstack.com/database/vdp/wordpress-popup).
 == Screenshots ==
 
 1. Easily customize the look of your campaigns using the in-built appearance settings.
@@ -184,6 +186,11 @@ No! Hustle gives you all the same settings and options as Hustle Pro. The only d
 5. Build beautiful pop-ups with any of the 4 included layouts.
 
 == Changelog ==
+
+= 10.8.4 ( 2024-03-07 ) =
+
+- Fix: Security vulnerability
+
 
 = 10.8.3 ( 2024-01-17 ) =
 
@@ -241,15 +248,6 @@ No! Hustle gives you all the same settings and options as Hustle Pro. The only d
 - Fix: W3C issue with style sheets
 - Fix: Compatibility issue with ACF Pro plugin
 - Fix: Divi theme issue - Triggering module using link ID does not work
-
-
-= 4.6.6 ( 2023-03-30 ) =
-
-- Enhance: Security improvements.
-- Fix: Helper Text font style cannot be reset
-- Fix: Title and Subtitle alignments are not working after reset
-- Fix: Embed Title is being cut off when you use Halloween Template
-- Fix: Redirect URL input field for CTA 2 doesn't show by default in Embed when starting from scratch
 
 [Changelog for previous versions](https://wpmudev.com/project/hustle/#view-changelog).
 
