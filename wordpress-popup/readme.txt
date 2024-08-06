@@ -1,14 +1,14 @@
 === Hustle - Email Marketing, Lead Generation, Optins, Popups ===
 Plugin Name: Hustle - Email Marketing, Lead Generation, Opt-ins, Popups
-Version: 7.8.4
+Version: 7.8.5
 Author: WPMU DEV
 Author URI: https://wpmudev.com/
 Contributors: WPMUDEV
 Tags: marketing, popup, optin, newsletter, subscription form, email, advertise, signup, mailing list, wordpress popup plugin, popup maker, pop-up, opt-in
-Requires at least: 5.2
-Tested up to: 6.4
+Requires at least: 6.4
+Tested up to: 6.6
 Requires PHP: 7.4
-Stable tag: 7.8.4
+Stable tag: 7.8.5
 
 Setup email optin forms, popups, newsletter forms & subscription forms to generate email leads with the best marketing popup builder
 
@@ -18,6 +18,10 @@ Setup email optin forms, popups, newsletter forms & subscription forms to genera
 *Hustle is the ultimate marketing plugin for building a mailing list and converting site traffic. Lead generation just got easier with simple set up optin forms, targeted marketing popups, and designer-made templates. Build a social following while you’re at it with Hustle’s diverse social sharing capabilities. From the award winning developers of [Smush](https://wordpress.org/plugins/wp-smushit/) image optimization and [Forminator](https://wordpress.org/plugins/forminator/) form builder at WPMU DEV.*
 
 Hustle lets you easily grow your mailing list or display targeted ads across your site with popups, optins, slide-ins, widgets, and shortcodes.
+
+**Access unlimited pop-ups, slide-ins, and social shares from the start with [Hustle Pro](https://wpmudev.com/project/hustle/?utm_source=wordpress.org&utm_medium=readme&utm_campaign=hustle-readme-above-the-fold&utm_content=hustle_pro).**
+
+Level up immediately with unlimited campaign creation + access to the full suite of WPMU DEV performance and marketing plugins. [Learn more about Pro](https://wpmudev.com/project/hustle/?utm_source=wordpress.org&utm_medium=readme&utm_campaign=hustle-readme-above-the-fold&utm_content=learn_more). 
 
 [youtube https://www.youtube.com/watch?v=oKgRSUdjcNg&feature=youtu.be]
 
@@ -155,8 +159,6 @@ Hey! This is Hustle, your trusted popup, email opt-in, and marketing plugin for 
 - [Hummingbird](https://wordpress.org/plugins/hummingbird-performance/) - Speed up, Cache, Optimize Your CSS and JS
 - [Branda](https://wordpress.org/plugins/branda-white-labeling/) - White Label WordPress, Maintenance Mode and Coming Soon Pages
 
-And if you need ALL our Pro plugins AND 24/7 WordPress support, get a WPMU DEV membership! You can try it free for 7 days: [wpmudev.com](https://wpmudev.com/?utm_source=wordpress.org&utm_medium=readme&utm_campaign=hustle-readme&utm_content=link_wpmudev#trial)
-
 My superhero friends run the WPMU DEV Blog, your source for the very best WordPress tutorials. If you need to be in the know about WordPress, check it out.
 
 Thanks for looking at Hustle, and I look forward to helping you market and grow your business with popups and more.
@@ -187,12 +189,16 @@ We take plugin security incredibly seriously; if you have a bug or vulnerability
 
 == Changelog ==
 
-= 10.8.4 ( 2024-03-07 ) =
+= 7.8.5 ( 2024-08-05 )
+
+- Fix: XSS Security vulnerability
+
+= 7.8.4 ( 2024-03-07 ) =
 
 - Fix: Security vulnerability
 
 
-= 10.8.3 ( 2024-01-17 ) =
+= 7.8.3 ( 2024-01-17 ) =
 
  - Aligned Pro and Free version numbers to ensure consistency and simplify version management.
  - Enhance: Compatibility with PHP 8.3
@@ -201,7 +207,7 @@ We take plugin security incredibly seriously; if you have a bug or vulnerability
  - Fix: Size of summary box logo
 
 
-= 4.8.2 ( 2023-10-03 ) =
+= 7.8.2 ( 2023-10-03 ) =
 
  - Fix: ConstantContact authentification.
  - Fix: Cannot edit or add hyperlink
@@ -213,14 +219,14 @@ We take plugin security incredibly seriously; if you have a bug or vulnerability
  - Enhance: Remove mascot images
 
 
-= 4.8.1 ( 2023-08-24 ) =
+= 7.8.1 ( 2023-08-24 ) =
 
 - Enhance: Set up a redirect URL for Hubspot
 - Fix: Issues with Hustle ActiveCampaign integration
 - Fix: Bullet Points are not showing on the success message
 
 
-= 4.8.0 ( 2023-06-27 ) =
+= 7.8.0 ( 2023-06-27 ) =
 
 - Enhance: Require PHP 7.4 as the minimum supported version
 - Enhance: Prevent XSS vulnerability in translations
@@ -231,12 +237,12 @@ We take plugin security incredibly seriously; if you have a bug or vulnerability
 - Fix: Issue with Close button on iOS
 
 
-= 4.7.1 ( 2023-06-07 ) =
+= 7.7.1 ( 2023-06-07 ) =
 
 - Enhance: Performance improvements.
 
 
-= 4.7.0 ( 2023-04-10 ) =
+= 7.7.0 ( 2023-04-10 ) =
 
 - New: Ability to display modules N times per day/week/month/year
 - New: Make whole module a clickable CTA
@@ -258,4 +264,4 @@ WPMU DEV is a premium supplier of quality WordPress plugins, services and suppor
 Don't forget to stay up to date on everything WordPress from the Internet's number one resource:
 [WPMU DEV Blog](https://wpmudev.com/?utm_source=wordpress.org&utm_medium=readme&utm_campaign=hustle-readme&utm_content=wpmu_dev_blog_link)
 
-Hey, one more thing... we hope you enjoy our [free offerings](http://profiles.wordpress.org/WPMUDEV/) as much as we've loved making them for you!
+Hey, one more thing... we hope you enjoy our [free offerings](https://profiles.wordpress.org/wpmudev/#content-plugins) as much as we've loved making them for you!
