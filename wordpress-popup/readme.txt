@@ -1,14 +1,14 @@
 === Hustle - Email Marketing, Lead Generation, Optins, Popups ===
 Plugin Name: Hustle - Email Marketing, Lead Generation, Opt-ins, Popups
-Version: 7.8.6
+Version: 7.8.7
 Author: WPMU DEV
 Author URI: https://wpmudev.com/
 Contributors: WPMUDEV
 Tags: marketing, popup, optin, newsletter, subscription form, email, advertise, signup, mailing list, wordpress popup plugin, popup maker, pop-up, opt-in
 Requires at least: 6.4
-Tested up to: 6.7
+Tested up to: 6.8
 Requires PHP: 7.4
-Stable tag: 7.8.6
+Stable tag: 7.8.7
 
 Setup email optin forms, popups, newsletter forms & subscription forms to generate email leads with the best marketing popup builder
 
@@ -181,13 +181,19 @@ No! Hustle gives you all the same settings and options as Hustle Pro. The only d
 We take plugin security incredibly seriously; if you have a bug or vulnerability to report, you can do so through the Patchstack Vulnerability Disclosure Program. It’s fast, easy, and you will be notified when the issue is fixed. [Report a vulnerability](https://patchstack.com/database/vdp/wordpress-popup).
 == Screenshots ==
 
-1. Easily customize the look of your campaigns using the in-built appearance settings.
-2. Create amazing looking pop-ups, slide-ins, and embeds using our designer made templates.
-3. All the display conditions you need for targeted marketing.
-4. Quickly create and display a floating social sharing icon bar.
-5. Build beautiful pop-ups with any of the 4 included layouts.
+1. Create and Customize Popups
+2. Use Pre-designed Templates
+3. Customize Appearance
+4. Set Visibility Conditions & Triggers
+5. Integrate with 1000+ Apps & Tools
+6. Schema Type Builder
 
 == Changelog ==
+
+= 7.8.7 ( 2025-04-25 )
+
+- Enhance: Compatibility with WordPress 6.8
+- Enhance: Add a new menu item to help you discover other free plugins by WPMU DEV and more
 
 = 7.8.6 ( 2024-11-25 )
 
